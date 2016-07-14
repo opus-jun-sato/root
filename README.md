@@ -1,3 +1,3 @@
-﻿# root
+# project root
 
-※this is test 
+this is test repository
